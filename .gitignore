@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+shopverse.db
+
+.streamlit/secrets.toml
+
+.env
+
+.DS_Store
